@@ -1,9 +1,9 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: adelpozoman # Your GitHub organization or username, where this repository lives
+repo: status # The name of this repository
 
 sites:
-  - name: Adelpozoman
+  - name: adelpozoman
     url: https://adelpozoman.es
   - name: Google
     url: https://www.google.com
