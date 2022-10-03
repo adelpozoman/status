@@ -19,7 +19,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Server uptime status
   introTitle: "Server uptime monitor and status page, powered entirely by GitHub."
-  introMessage: **real-time** data from our [GitHub repository](https://github.com/adelpozoman/status). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: Real time data from [GitHub repository](https://github.com/adelpozoman/status). No server required — just GitHub Actions, Issues, and Pages.
   navbar:
     - title: Status
       href: /
