@@ -6,17 +6,16 @@
     "slug": "adelpozoman",
     "status": "up",
     "uptime": "98.63%",
-    "uptimeDay": "98.99%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "96.05%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "96.16%",
     "uptimeYear": "98.37%",
-    "time": 1133,
-    "timeDay": 593,
-    "timeWeek": 989,
-    "timeMonth": 1640,
+    "time": 1132,
+    "timeDay": 602,
+    "timeWeek": 1004,
+    "timeMonth": 1652,
     "timeYear": 1172,
     "dailyMinutesDown": {
-      "2023-08-14": 15,
       "2023-08-06": 17,
       "2023-08-04": 98,
       "2023-08-03": 77,
@@ -50,7 +49,7 @@
       "2023-07-03": 1254,
       "2023-06-08": 479,
       "2023-05-23": 67,
-      "2023-05-20": 16
+      "2023-05-20": 33
     }
   },
   {
@@ -61,14 +60,14 @@
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.84%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 110,
-    "timeDay": 69,
-    "timeWeek": 149,
-    "timeMonth": 129,
-    "timeYear": 111,
+    "timeDay": 91,
+    "timeWeek": 129,
+    "timeMonth": 128,
+    "timeYear": 110,
     "dailyMinutesDown": {
       "2023-08-07": 17
     }
@@ -85,9 +84,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 236,
-    "timeDay": 375,
-    "timeWeek": 295,
-    "timeMonth": 189,
+    "timeDay": 205,
+    "timeWeek": 259,
+    "timeMonth": 192,
     "timeYear": 201,
     "dailyMinutesDown": {}
   }
