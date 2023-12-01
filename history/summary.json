@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/adelpozoman.es.ico",
     "slug": "adelpozoman",
     "status": "up",
-    "uptime": "98.95%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "98.37%",
-    "uptimeMonth": "99.63%",
-    "uptimeYear": "98.44%",
+    "uptime": "98.89%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.64%",
+    "uptimeYear": "98.35%",
     "time": 1119,
-    "timeDay": 574,
-    "timeWeek": 871,
+    "timeDay": 594,
+    "timeWeek": 616,
     "timeMonth": 736,
     "timeYear": 1224,
     "dailyMinutesDown": {
-      "2023-11-30": 8,
       "2023-11-23": 156,
       "2023-08-15": 47,
       "2023-08-06": 17,
@@ -49,7 +48,8 @@
       "2023-07-06": 1072,
       "2023-07-05": 1440,
       "2023-07-04": 1440,
-      "2023-07-03": 1254
+      "2023-07-03": 1254,
+      "2023-06-08": 479
     }
   },
   {
@@ -64,9 +64,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 112,
-    "timeDay": 64,
-    "timeWeek": 72,
-    "timeMonth": 81,
+    "timeDay": 56,
+    "timeWeek": 70,
+    "timeMonth": 80,
     "timeYear": 108,
     "dailyMinutesDown": {
       "2023-08-07": 17
@@ -83,10 +83,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 201,
-    "timeDay": 198,
+    "time": 200,
+    "timeDay": 177,
     "timeWeek": 179,
-    "timeMonth": 182,
+    "timeMonth": 187,
     "timeYear": 197,
     "dailyMinutesDown": {}
   }
