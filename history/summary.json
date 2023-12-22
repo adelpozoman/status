@@ -4,13 +4,13 @@
     "url": "https://adelpozoman.es",
     "icon": "https://icons.duckduckgo.com/ip3/adelpozoman.es.ico",
     "slug": "adelpozoman",
-    "status": "up",
-    "uptime": "98.99%",
-    "uptimeDay": "98.75%",
+    "status": "down",
+    "uptime": "99.63%",
+    "uptimeDay": "98.74%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.60%",
-    "uptimeYear": "98.44%",
-    "time": 1128,
+    "uptimeYear": "99.43%",
+    "time": 1129,
     "timeDay": 809,
     "timeWeek": 732,
     "timeMonth": 875,
@@ -46,10 +46,7 @@
       "2023-07-09": 163,
       "2023-07-08": 127,
       "2023-07-07": 189,
-      "2023-07-06": 1072,
-      "2023-07-05": 1440,
-      "2023-07-04": 1440,
-      "2023-07-03": 1254
+      "2023-07-06": 25
     }
   },
   {
