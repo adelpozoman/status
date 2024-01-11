@@ -6,14 +6,14 @@
     "slug": "adelpozoman",
     "status": "up",
     "uptime": "96.43%",
-    "uptimeDay": "96.77%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.54%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.04%",
     "time": 1125,
-    "timeDay": 610,
-    "timeWeek": 685,
-    "timeMonth": 794,
+    "timeDay": 705,
+    "timeWeek": 696,
+    "timeMonth": 793,
     "timeYear": 1223,
     "dailyMinutesDown": {
       "2024-01-09": 47,
@@ -26,8 +26,7 @@
       "2023-02-17": 1440,
       "2023-02-16": 719,
       "2023-02-01": 18,
-      "2023-01-31": 24,
-      "2023-01-11": 21
+      "2023-01-31": 24
     }
   },
   {
@@ -41,11 +40,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 111,
-    "timeDay": 71,
-    "timeWeek": 87,
-    "timeMonth": 112,
-    "timeYear": 111,
+    "time": 112,
+    "timeDay": 228,
+    "timeWeek": 107,
+    "timeMonth": 107,
+    "timeYear": 112,
     "dailyMinutesDown": {}
   },
   {
@@ -60,10 +59,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 199,
-    "timeDay": 181,
-    "timeWeek": 235,
-    "timeMonth": 196,
-    "timeYear": 194,
+    "timeDay": 232,
+    "timeWeek": 234,
+    "timeMonth": 199,
+    "timeYear": 195,
     "dailyMinutesDown": {}
   }
 ]
