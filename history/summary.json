@@ -34,17 +34,17 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.52%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.94%",
     "time": 156,
-    "timeDay": 230,
-    "timeWeek": 244,
-    "timeMonth": 196,
-    "timeYear": 142,
+    "timeDay": 236,
+    "timeWeek": 247,
+    "timeMonth": 199,
+    "timeYear": 143,
     "dailyMinutesDown": {
       "2025-12-14": 22,
       "2026-01-05": 29,
@@ -53,7 +53,7 @@
       "2026-08-08": 44,
       "2026-08-16": 18,
       "2026-11-19": 43,
-      "2026-11-21": 6
+      "2026-11-21": 0
     }
   },
   {
