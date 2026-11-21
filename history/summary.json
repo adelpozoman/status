@@ -6,15 +6,15 @@
     "slug": "adelpozoman",
     "status": "up",
     "uptime": "98.53%",
-    "uptimeDay": "35.85%",
+    "uptimeDay": "54.84%",
     "uptimeWeek": "76.74%",
     "uptimeMonth": "93.63%",
     "uptimeYear": "99.37%",
     "time": 783,
-    "timeDay": 1536,
-    "timeWeek": 784,
-    "timeMonth": 684,
-    "timeYear": 721,
+    "timeDay": 1049,
+    "timeWeek": 765,
+    "timeMonth": 687,
+    "timeYear": 720,
     "dailyMinutesDown": {
       "2025-12-18": 118,
       "2025-12-17": 14,
@@ -36,14 +36,14 @@
     "slug": "google",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.52%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.94%",
     "time": 153,
-    "timeDay": 239,
+    "timeDay": 163,
     "timeWeek": 243,
-    "timeMonth": 188,
+    "timeMonth": 189,
     "timeYear": 140,
     "dailyMinutesDown": {
       "2025-12-14": 22,
@@ -52,8 +52,7 @@
       "2026-05-06": 151,
       "2026-08-08": 44,
       "2026-08-16": 18,
-      "2026-11-19": 43,
-      "2026-11-20": 6
+      "2026-11-19": 43
     }
   },
   {
@@ -68,10 +67,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 198,
-    "timeDay": 222,
-    "timeWeek": 225,
-    "timeMonth": 222,
-    "timeYear": 193,
+    "timeDay": 242,
+    "timeWeek": 229,
+    "timeMonth": 229,
+    "timeYear": 191,
     "dailyMinutesDown": {}
   }
 ]
