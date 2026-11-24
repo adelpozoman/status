@@ -36,9 +36,9 @@
     "slug": "google",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.40%",
-    "uptimeWeek": "99.16%",
-    "uptimeMonth": "99.81%",
+    "uptimeDay": "98.81%",
+    "uptimeWeek": "99.22%",
+    "uptimeMonth": "99.82%",
     "uptimeYear": "99.93%",
     "time": 161,
     "timeDay": 227,
@@ -54,7 +54,7 @@
       "2026-08-16": 18,
       "2026-11-19": 43,
       "2026-11-22": 19,
-      "2026-11-23": 23
+      "2026-11-23": 17
     }
   },
   {
